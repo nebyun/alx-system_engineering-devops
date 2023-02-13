@@ -1,2 +1,2 @@
 #!/bin/bash
-grip -el "root" /etc/passwd
+grip -l "root" /etc/passwd
