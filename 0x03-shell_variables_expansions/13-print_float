@@ -1,2 +1,2 @@
 #!/bin/bash
-env NUM="00"
+env NUM="0.00"
